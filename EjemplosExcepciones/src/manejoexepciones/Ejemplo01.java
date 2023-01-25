@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package manejoexepciones;
 
 /**
@@ -20,5 +16,6 @@ public class Ejemplo01 {
         System.out.printf("Resultado %d", resultado);
         
         System.out.println("continuamos");
+        
     }
 }
